@@ -1,6 +1,7 @@
 discord.py
 yt-dlp
 youtube-search
+ffmpeg
 aiohttp
 astunparse
 async-timeout
