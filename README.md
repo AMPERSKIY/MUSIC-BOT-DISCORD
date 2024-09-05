@@ -4,7 +4,7 @@
 Далее скачайте все библиотеки из - requirements и обновите версию Python до последней версии.
 Далее вам нужно вставить все токены, чтоб бот работал, они подписаны как - ТВОЙ_API и название API, которое вам надо вставить
 
-                                                    English                                                             
+                                                    English
                                                                                       
 Hello everyone I created a simple music bot in Discord based on Python and Ffmpeg, where the bot searches for music via Spotify and YouTube
 To start using the bot, you need to install ffmpeg on your computer through the official website ffmpeg.org and then move it to the Path (there are guides on YouTube about this)
